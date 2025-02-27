@@ -1,0 +1,9 @@
+---
+title: "lab_attendance"
+format: html
+Author: Chloe Rogozinski
+---
+
+## Today, I learned how to commit and push to GitHub properly. This presentation was also extremely helpful in explaining the terminology.
+
+![](images/coral infographic.png)
